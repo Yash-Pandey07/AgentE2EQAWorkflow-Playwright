@@ -1,0 +1,23 @@
+# dependencies
+node_modules/
+
+# Playwright outputs
+test-results/
+playwright-report/
+blob-report/
+
+# Playwright cache
+playwright/.cache/
+playwright/.auth/
+
+# environment
+.env
+
+# editor files
+.vscode/
+
+# logs
+*.log
+
+# local docs
+QAE2EPromptFile.md
